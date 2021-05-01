@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chuodinity
 - 👀 I’m interested in computer science, writing programs in Java, Python and Scratch!
 - 🌱 I’m currently learning more about articfial intelligence (robotics), machine learning and STEM related subjects.
-- 💞️ I’m looking to collaborate on cool artifical intelligence related projects.
 - 📫 You can contact me through my email (jagochan@gmail.com)
 
 <!---
